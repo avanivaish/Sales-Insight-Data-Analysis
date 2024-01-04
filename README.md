@@ -14,5 +14,3 @@
 9. Scheduled Refresh: Implement a scheduled refresh mechanism to ensure that Power BI reports and dashboards are consistently updated with the latest sales data. This ensures that decision-makers have access to real-time insights for timely strategic actions.
 
 The "Sales Performance Optimization through Power BI Analytics" project is poised to unlock valuable insights, drive data-driven decision-making, and contribute significantly to the overall success of our retail company through informed strategies and actions.
-
-
